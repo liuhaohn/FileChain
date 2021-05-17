@@ -1,4 +1,12 @@
-- 此项目用来启动Fabric网络，使用的是修改后的fabric-sample/test-network模板
+# FileChain：HaoFS的Fabric智能合约和测试环境
+
+## 介绍
+
+- 项目中 `FileChain` 是HaoFS项目使用的智能合约
+
+- `test-network` 目录下是启动测试用的Fabric网络，使用的是修改后的fabric-sample/test-network模板，目录下的 `network-start.sh` 脚本可以一键启动三个组织的Fabric网络，扩展更多组织可以参考`test-network/add-Org3`
+
+## 使用
 
 - ```
   .
