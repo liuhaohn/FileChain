@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="60e32e8e-7fe0-47e1-a0be-90bc710c6a41" name="fabric" url="">
+        <fileTransfer rootFolder="/home/hao" accessType="SFTP" host="fabric" port="22" sshConfigId="85c5ed73-6f97-4a81-829f-3d5c009d08f5" sshConfig="hao@fabric:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4c5c56e8-a8fe-4910-8e89-cd10f83e3e92" name="fatnode">
+        <fileTransfer rootFolder="/srv/hao" accessType="SFTP" host="115.157.201.200" port="22" sshConfigId="d3016604-9275-4f69-ae60-13931ff148ca" sshConfig="hao@115.157.201.200:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

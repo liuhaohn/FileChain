@@ -1,0 +1,1 @@
+{"version":1,"mspId":"${MSP}","type":"X.509","credentials":{"certificate":"${CERTIFICATE}","privateKey":"${PRIVATE}"}}

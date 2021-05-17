@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/org.hyperledger.fabric-chaincode-java/fabric-chaincode-shim/2.3.1.dev.20210324/f8934b3c9bd060662321e3db61e78c8bf948c053/fabric-chaincode-shim-2.3.1.dev.20210324-sources.jar!/org/hyperledger/fabric/shim/ledger/CompositeKey.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/java/com/hao/NodeContract.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/test/java/CompKeyTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="&lt;60e32e8e-7fe0-47e1-a0be-90bc710c6a41&gt;/IdeaProjects/fabric-kiftd-gradle/chaincode/FileChain/build.gradle">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="&lt;60e32e8e-7fe0-47e1-a0be-90bc710c6a41&gt;/IdeaProjects/fabric-kiftd-gradle/test-network/docker/docker-compose-test-net.yaml">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="&lt;60e32e8e-7fe0-47e1-a0be-90bc710c6a41&gt;/IdeaProjects/fabric-kiftd-gradle/test-network/scripts/deployCC.sh">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="&lt;60e32e8e-7fe0-47e1-a0be-90bc710c6a41&gt;/IdeaProjects/fabric-samples/first-network/docker-compose-cli.yaml">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

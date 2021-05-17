@@ -1,0 +1,22 @@
+plugins {
+    id 'java-library-distribution'
+}
+
+group 'com.hao'
+version '1.0'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {url('https://jitpack.io')}
+    maven {url('https://hyperledger.jfrog.io/hyperledger/fabric-maven')}
+}
+
+dependencies {
+    compileOnly group: 'org.hyperledger.fabric-chaincode-java', name: 'fabric-chaincode-shim', version: '2.+'
+    implementation group: 'org.json', name: 'json', version: '20180813'
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.hyperledger.fabric-chaincode-java:fabric-chaincode-shim:2.+'
+    testImplementation 'org.assertj:assertj-core:3.11.1'
+    testImplementation 'org.mockito:mockito-core:2.+'
+}

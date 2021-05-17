@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="fabric" id="85c5ed73-6f97-4a81-829f-3d5c009d08f5" port="22" nameFormat="DESCRIPTIVE" username="hao" />
+      <sshConfig authType="PASSWORD" host="115.157.201.200" id="d3016604-9275-4f69-ae60-13931ff148ca" port="22" nameFormat="DESCRIPTIVE" username="hao" />
+    </configs>
+  </component>
+</project>
